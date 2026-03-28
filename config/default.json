@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://admin:admin@cluster0.ejsxwm3.mongodb.net/?appName=Cluster0",
+    "jwtSecret": "mySecretToken",
+    "gitClientSecret": "affc253b2dcc6c95d32e8d0683d1d583fb6b5b40",
+    "gitClientId": "Ov23liQvzAzLmRx2NmUB"
+}
